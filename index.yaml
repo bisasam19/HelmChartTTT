@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ttt-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-28T13:57:12.3614613+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 0626559484db6cc6a5b86f9abe8aa0b1bd90867f39df13642f4ce882c38cc8f6
+    name: ttt-helm
+    type: application
+    urls:
+    - https://bisasam19.github.io/HelmChartTTT/ttt-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-28T13:57:12.359462+02:00"
